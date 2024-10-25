@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp" alt="Anime GIF" width="300"/>
+  <img src="https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp" alt="Anime GIF" width="1000"/>
 </div>
 
 ### GitHub Stats
