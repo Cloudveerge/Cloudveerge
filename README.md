@@ -1,8 +1,5 @@
 # Cloudveerge - Full Stack Dev | Python Enthusiast
 
-<div align="center">
-  <img src="https://wallpapers.com/images/high/dark-anime-girl-mygc13sln7fob39p.webp" alt="Anime GIF" width="1000"/>
-</div>
 
 ### Skills & Tech Stack
 
@@ -24,6 +21,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://preview.redd.it/a-few-pictures-of-gawr-gura-ai-art-made-by-me-as-i-v0-9246sqc8pg9a1.jpg?width=1080&crop=smart&auto=webp&s=844af400e912b183d8ad8f8a7bd340cd4dad9dbb" alt="Anime GIF" width="300"/>
+</div>
+
 ### GitHub Stats
 
 <div align="center">
@@ -33,6 +34,7 @@
 
 
 ---
+
 
 
 *Thanks for stopping by! Stay tuned for more.* 
