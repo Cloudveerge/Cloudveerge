@@ -1,5 +1,9 @@
 # Cloudveerge - Full Stack Dev | Python Enthusiast
 
+<div align="center">
+  <img src="https://i.gifer.com/fetch/w300-preview/6a/6aafe99617311e701baf720627980a98.gif" alt="Anime GIF" width="300"/>
+</div>
+
 ### Skills & Tech Stack
 
 <div align="center">
@@ -26,6 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cloudveerge&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudveerge&layout=compact&theme=dark" alt="Top Langs" />
 </div>
+
+
+---
 
 
 *Thanks for stopping by! Stay tuned for more.* 
