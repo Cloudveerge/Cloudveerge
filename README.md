@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://wallpapers.com/images/high/dark-anime-girl-mygc13sln7fob39p.webp" alt="Anime GIF" width="1000"/>
+  <img src="https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp" alt="Anime GIF" width="300"/>
 </div>
 
 ### GitHub Stats
