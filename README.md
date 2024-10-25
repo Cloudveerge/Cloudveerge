@@ -1,7 +1,7 @@
 # Cloudveerge - Full Stack Dev | Python Enthusiast
 
 <div align="center">
-  <img src="https://i.gifer.com/fetch/w300-preview/6a/6aafe99617311e701baf720627980a98.gif" alt="Anime GIF" width="300"/>
+  <img src="https://images4.alphacoders.com/134/1343719.jpeg" alt="Anime GIF" width="300"/>
 </div>
 
 ### Skills & Tech Stack
