@@ -21,10 +21,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://wallpaperbat.com/img/491007-aesthetic-anime-desktop-wallpaper-top-free-aesthetic-anime-desktop-background.jpg" alt="Anime GIF" width="1000"/>
-</div>
-
 ### GitHub Stats
 
 <div align="center">
@@ -32,6 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudveerge&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
+<div align="center">
+  <img src="https://wallpaperbat.com/img/491007-aesthetic-anime-desktop-wallpaper-top-free-aesthetic-anime-desktop-background.jpg" alt="Anime GIF" width="1000"/>
+</div>
 
 ---
 
