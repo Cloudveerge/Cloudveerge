@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-photo/concept-art-game_916191-425694.jpg" alt="Anime GIF" width="1000"/>
+  <img src="https://img.freepik.com/free-photo/bright-pop-landscape-design_23-2149213461.jpg" alt="Anime GIF" width="1000"/>
 </div>
 
 ### GitHub Stats
