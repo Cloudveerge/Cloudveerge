@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp" alt="Anime GIF" width="1000"/>
+  <img src="[https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp](https://img.freepik.com/free-photo/bright-pop-landscape-design_23-2149213461.jpg?t=st=1729942376~exp=1729945976~hmac=e7cd2d19125694c296076d0d5fabb338756f79e7efa6300490ff25cf12874618&w=740)" alt="Anime GIF" width="1000"/>
 </div>
 
 ### GitHub Stats
