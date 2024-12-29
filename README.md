@@ -311,7 +311,7 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=resume-generator)]([https://github.com/Cloudveerge/resume-generator](https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=Gemini-1.5-flash-AI-Telegram-Bot)](https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot)
 
 
 <p align="center">
