@@ -311,11 +311,8 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=resume-generator)](https://github.com/Cloudveerge/resume-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=resume-generator)]([https://github.com/Cloudveerge/resume-generator](https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=llama_voice_chatbot_multi_language)](https://github.com/Cloudveerge/llama_voice_chatbot_multi_language)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=chatbot_rag_llama)](https://github.com/Cloudveerge/chatbot_rag_llama)
 
 <p align="center">
  <img width="1000" src="/github-snake.svg" alt="snake"/>
