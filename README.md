@@ -317,6 +317,8 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=Gemini-1.5-flash-AI-Telegram-Bot)](https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=Gemini-1.5-flash-AI-Telegram-Bot)](https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot)
+
 
 <p align="center">
  <img width="1000" src="/github-snake.svg" alt="snake"/>
