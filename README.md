@@ -318,5 +318,9 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloudveerge&repo=chatbot_rag_llama)](https://github.com/Cloudveerge/chatbot_rag_llama)
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
