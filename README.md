@@ -298,9 +298,7 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudveerge&theme=gotham&layout=compact" width="50%"/> 
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cloudveerge&theme=aura)
 
 <p align="center">
     <a href="https://github.com/Cloudveerge?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Cloudveerge&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@Cloudveerge's github-readme-stats"/></a>
