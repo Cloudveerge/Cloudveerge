@@ -1,4 +1,5 @@
-<img src="https://64.media.tumblr.com/488c9501a934c43ad8b8370479e90da7/b01d038c01db35f0-a7/s540x810/b2a0890c9ff365470633d11824b5326bf8baedf0.gif" width="100%"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-4240-bed6-228912593dc2/dgda5u8-33edddd6-f9dc-4d47-8ce7-6fd0ffb7f049.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiODZiZGI0LTU0MGYtNDI0MC1iZWQ2LTIyODkxMjU5M2RjMlwvZGdkYTV1OC0zM2VkZGRkNi1mOWRjLTRkNDctOGNlNy02ZmQwZmZiN2YwNDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g8x1Mly1nfSpkyzPmxhhOrLcMbIoR_DkqGquzUb5cfc" width="80%" />
+
 
 
 <div align="center">
