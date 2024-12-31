@@ -300,10 +300,9 @@ I specialize in creating innovative solutions by integrating cutting-edge AI tec
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cloudveerge&theme=aura)
 
-<p align="center">
-    <a href="https://github.com/Cloudveerge?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Cloudveerge&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@Cloudveerge's github-readme-stats"/></a>
-    <a href="https://github.com/Cloudveerge?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cloudveerge&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cloudveerge&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cloudveerge&theme=aura)
 
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=Cloudveerge&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
