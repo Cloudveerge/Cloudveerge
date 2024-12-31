@@ -1,4 +1,4 @@
-<img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif" width="100%" style="height: auto;"/>
+<img src="https://media.tenor.com/oOrsGFrf-6wAAAAM/dance-dance-moves.gif" width="100%" style="height: auto;"/>
 
 
 
