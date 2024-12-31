@@ -1,4 +1,4 @@
-<img src="https://99px.ru/sstorage/86/2018/08/image_862708180120007751187.gif" width="100%" style="height: 100;"/>
+<img src="https://www.shutterstock.com/shutterstock/videos/3633748313/thumb/8.jpg?ip=x480" width="100%" style="height: 100;"/>
 
 
 
