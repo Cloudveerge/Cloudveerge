@@ -1,4 +1,4 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b86bdb4-540f-4240-bed6-228912593dc2/dgda5u8-33edddd6-f9dc-4d47-8ce7-6fd0ffb7f049.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiODZiZGI0LTU0MGYtNDI0MC1iZWQ2LTIyODkxMjU5M2RjMlwvZGdkYTV1OC0zM2VkZGRkNi1mOWRjLTRkNDctOGNlNy02ZmQwZmZiN2YwNDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g8x1Mly1nfSpkyzPmxhhOrLcMbIoR_DkqGquzUb5cfc" />
+<img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif" />
 
 
 
